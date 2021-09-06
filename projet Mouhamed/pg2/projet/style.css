@@ -1,0 +1,90 @@
+.footer {
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 82%;
+    display: inline-block;
+    background-color: red;
+    color: white;
+    /*text-align: center;*/
+    background-image: url("mur.jpeg");
+    background-size: cover;
+    height: 550px;
+    background-position: center center;
+    margin:28px 68px;;
+  }
+  form    {
+      text-align: left;
+      width: 50px;
+      margin-top: 5px;
+      margin-left: 20px;
+  }
+  p{
+      text-align: left;
+      margin-top: 5px;
+      margin-left: 0px;
+  }
+
+/*  .t1::after{
+      clear: both;
+  }
+
+  .t2::after{
+      clear: both;
+  }*/
+
+  .t1{
+      padding-left: 50px;
+      width: 95%;
+      padding-top: 50px;
+      /*border-top: 2px dashed #9b100e;*/
+  }
+  .t2{
+      width: 50%;
+      color: black;
+      padding-left: 50px;
+  }
+  .champs{
+      height: 5%;
+      margin-bottom: 5px;
+      width: 270px;
+  }
+  textarea{
+      width: 400px;
+  }
+  .bouton{
+      width: 109px;
+      height: 30px;
+      border-radius: 7px;
+      border: none;
+  }
+  .image {
+     /* background-image: url("google.jpg");*/
+      width: 30%;
+      height: 50%;
+      display: inline-block;
+  }
+  .formulaire{
+      width: 50%;
+      display: inline-block;
+      padding-left: 30px;
+      padding-top: 0px;
+      text-align: left;
+  }
+  .t3{
+      color: black;
+      font-size: 12px;
+  }
+  .barre{
+      border: 3px solid #fff;
+  }
+  .resaux {
+    display: grid;
+    margin: -320px 1199px 0px;
+    position: relative;
+    right: 10px;
+
+  }
+  .resaux img{
+      width: 75px;;
+  }
